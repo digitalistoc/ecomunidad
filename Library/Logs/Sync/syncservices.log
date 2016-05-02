@@ -1,0 +1,106 @@
+2015-10-27 15:11:08:747|SyncServer|543|0x10f216f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2015-10-27 15:11:25:069|DockSyncClient|580|0x109516b80|Stats|Stats| com.apple.Dock: refresh sync com.apple.dock.itemlist, com.apple.dock.item
+2015-10-27 15:11:25:069|DockSyncClient|580|0x109516b80|ISyncSession|Info| com.apple.Dock: prepare to refresh com.apple.dock.itemlist,com.apple.dock.item
+2015-10-27 15:11:25:787|AddressBookSync|577|0x10b31b7b0|Stats|Stats| com.apple.AddressBook: refresh sync com.apple.contacts.ImageTransformationInfo, com.apple.contacts.Related Name, com.apple.contacts.Group, com.apple.contacts.SmartGroup, com.apple.contacts.URL, com.apple.contacts.IM, com.apple.contacts.Street Address, com.apple.contacts.Phone Number, com.apple.contacts.Date, com.apple.contacts.CalendarURI, com.apple.contacts.Contact, com.apple.contacts.Email Address
+2015-10-27 15:11:25:787|AddressBookSync|577|0x10b31b7b0|ISyncSession|Info| com.apple.AddressBook: prepare to refresh com.apple.contacts.ImageTransformationInfo,com.apple.contacts.Related Name,com.apple.contacts.Group,com.apple.contacts.SmartGroup,com.apple.contacts.URL,com.apple.contacts.IM,com.apple.contacts.Street Address,com.apple.contacts.Phone Number,com.apple.contacts.Date,com.apple.contacts.CalendarURI,com.apple.contacts.Contact,com.apple.contacts.Email Address
+2001-01-01 01:23:14:800|SyncServer|701|0x10a816f80|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2001-01-01 01:23:15:581|SafariSyncClient|700|0x103d18150|ISyncManager|Info| unregister com.apple.Safari
+2001-01-01 01:23:15:594|SyncServer|701|0x10a816f80|Server|Info| unregister client com.apple.Safari
+2001-01-01 01:23:15:647|SafariSyncClient|700|0x103d18150|ISyncManager|Info| register client com.apple.Safari from /Applications/Safari.app/Contents/SafariSyncClient.app/Contents/Resources/SafariClientDescription.plist (bundleId = (null), bundleRelativePath = (null))
+2016-03-02 17:37:44:065|SyncServer|701|0x10a816f80|SyncServer|Warning| Refreshing watchdog because of a calendar time change alert.
+2016-03-02 17:39:44:097|SyncServer|701|0x10a816f80|Server|Info| Cancelling all sync plans.
+2016-03-02 17:39:44:131|SyncServer|701|0x10a816f80|DataManager|Warning| Resetting client com.apple.AddressBook since it has not synced since 2015-12-03 20:39:44 +0000
+2016-03-02 17:39:44:196|SyncServer|701|0x10a816f80|DataManager|Warning| Resetting client com.apple.Dock since it has not synced since 2015-12-03 20:39:44 +0000
+2016-03-02 17:39:44:261|SyncServer|701|0x10a816f80|Server|Info| Goodnight, Gracie.
+2016-03-09 09:29:19:088|SyncServer|788|0x109b16f80|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-03-09 09:29:20:044|DockSyncClient|789|0x100416ba0|Stats|Stats| com.apple.Dashboard: refresh sync com.apple.dashboard.widget
+2016-03-09 09:29:20:044|DockSyncClient|789|0x100416ba0|ISyncSession|Info| com.apple.Dashboard: prepare to refresh com.apple.dashboard.widget
+2016-03-09 09:31:20:275|SyncServer|788|0x109b16f80|Server|Info| Cancelling all sync plans.
+2016-03-09 09:31:20:420|SyncServer|788|0x109b16f80|Server|Info| Goodnight, Gracie.
+2016-03-10 09:10:19:268|SyncServer|970|0x100816f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-03-10 09:10:23:327|DockSyncClient|971|0x10c116b80|Stats|Stats| com.apple.Dashboard: slow sync com.apple.dashboard.widget
+2016-03-10 09:10:23:327|DockSyncClient|971|0x10c116b80|ISyncSession|Info| com.apple.Dashboard: prepare to slow sync com.apple.dashboard.widget
+2016-03-10 09:12:24:179|SyncServer|970|0x100816f60|Server|Info| Cancelling all sync plans.
+2016-03-10 09:12:24:221|SyncServer|970|0x100816f60|Server|Info| Goodnight, Gracie.
+2016-03-10 10:20:19:383|SyncServer|1485|0x10aa16f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-03-10 10:20:20:593|DockSyncClient|1486|0x100f16b80|Stats|Stats| com.apple.Dashboard: slow sync com.apple.dashboard.widget
+2016-03-10 10:20:20:593|DockSyncClient|1486|0x100f16b80|ISyncSession|Info| com.apple.Dashboard: prepare to slow sync com.apple.dashboard.widget
+2016-03-10 10:20:34:163|DockSyncClient|1487|0x10b616b80|Stats|Stats| com.apple.Dashboard: slow sync com.apple.dashboard.widget
+2016-03-10 10:20:34:163|DockSyncClient|1487|0x10b616b80|ISyncSession|Info| com.apple.Dashboard: prepare to slow sync com.apple.dashboard.widget
+2016-03-10 10:22:34:178|SyncServer|1485|0x10aa16f60|Server|Info| Cancelling all sync plans.
+2016-03-10 10:22:34:756|SyncServer|1485|0x10aa16f60|Server|Info| Goodnight, Gracie.
+2016-03-14 08:58:51:728|SyncServer|1211|0x104e16f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-03-14 08:58:52:414|DockSyncClient|1212|0x10aa16b80|Stats|Stats| com.apple.Dock: refresh sync com.apple.dock.item, com.apple.dock.itemlist
+2016-03-14 08:58:52:414|DockSyncClient|1212|0x10aa16b80|ISyncSession|Info| com.apple.Dock: prepare to refresh com.apple.dock.item,com.apple.dock.itemlist
+2016-03-14 09:00:52:619|SyncServer|1211|0x104e16f60|Server|Info| Cancelling all sync plans.
+2016-03-14 09:00:52:715|SyncServer|1211|0x104e16f60|Server|Info| Goodnight, Gracie.
+2016-03-14 09:24:11:396|SyncServer|1468|0x10c216f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-03-14 09:24:11:566|DockSyncClient|1469|0x10d416b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-03-14 09:24:11:566|DockSyncClient|1469|0x10d416b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-03-14 09:24:16:152|DockSyncClient|1471|0x105916b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-03-14 09:24:16:152|DockSyncClient|1471|0x105916b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-03-14 09:24:35:599|DockSyncClient|1475|0x108616b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-03-14 09:24:35:599|DockSyncClient|1475|0x108616b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-03-14 09:26:35:585|DockSyncClient|1518|0x102b16b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-03-14 09:26:35:586|DockSyncClient|1518|0x102b16b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-03-14 09:28:35:720|SyncServer|1468|0x10c216f60|Server|Info| Cancelling all sync plans.
+2016-03-14 09:28:35:722|SyncServer|1468|0x10c216f60|Server|Info| Goodnight, Gracie.
+2016-03-15 07:48:32:419|SyncServer|2867|0x103816f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-03-15 07:48:33:079|DockSyncClient|2868|0x10c016b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-03-15 07:48:33:079|DockSyncClient|2868|0x10c016b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-03-15 07:48:51:173|DockSyncClient|2874|0x108116b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-03-15 07:48:51:173|DockSyncClient|2874|0x108116b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-03-15 07:50:51:293|SyncServer|2867|0x103816f60|Server|Info| Cancelling all sync plans.
+2016-03-15 07:50:51:676|SyncServer|2867|0x103816f60|Server|Info| Goodnight, Gracie.
+2016-03-31 16:46:34:971|SyncServer|2671|0x105b16f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-03-31 16:46:39:944|DockSyncClient|2672|0x10b216b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-03-31 16:46:39:945|DockSyncClient|2672|0x10b216b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-03-31 16:48:40:165|SyncServer|2671|0x105b16f60|Server|Info| Cancelling all sync plans.
+2016-03-31 16:48:40:417|SyncServer|2671|0x105b16f60|Server|Info| Goodnight, Gracie.
+2016-04-06 10:34:12:321|SyncServer|7866|0x10c316f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-04-06 10:34:13:730|DockSyncClient|7867|0x10cb16b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-04-06 10:34:13:730|DockSyncClient|7867|0x10cb16b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-04-06 10:36:13:899|SyncServer|7866|0x10c316f60|Server|Info| Cancelling all sync plans.
+2016-04-06 10:36:14:579|SyncServer|7866|0x10c316f60|Server|Info| Goodnight, Gracie.
+2016-04-07 08:20:25:807|SyncServer|11619|0x105e16f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-04-07 08:20:26:982|DockSyncClient|11620|0x107f16b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-04-07 08:20:26:982|DockSyncClient|11620|0x107f16b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-04-07 08:22:27:138|SyncServer|11619|0x105e16f60|Server|Info| Cancelling all sync plans.
+2016-04-07 08:22:27:422|SyncServer|11619|0x105e16f60|Server|Info| Goodnight, Gracie.
+2016-04-11 13:04:37:693|SyncServer|2919|0x101e16f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-04-11 13:04:38:889|DockSyncClient|2920|0x10a916b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-04-11 13:04:38:889|DockSyncClient|2920|0x10a916b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-04-11 13:06:39:002|SyncServer|2919|0x101e16f60|Server|Info| Cancelling all sync plans.
+2016-04-11 13:06:39:206|SyncServer|2919|0x101e16f60|Server|Info| Goodnight, Gracie.
+2016-04-13 12:36:27:665|SyncServer|9829|0x10ea16f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-04-13 12:36:28:699|DockSyncClient|9830|0x106d16b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-04-13 12:36:28:699|DockSyncClient|9830|0x106d16b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-04-13 12:38:28:821|SyncServer|9829|0x10ea16f60|Server|Info| Cancelling all sync plans.
+2016-04-13 12:38:29:067|SyncServer|9829|0x10ea16f60|Server|Info| Goodnight, Gracie.
+2016-04-13 12:48:15:191|SyncServer|9950|0x10b216f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-04-13 12:48:15:859|DockSyncClient|9951|0x10ee16b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-04-13 12:48:15:859|DockSyncClient|9951|0x10ee16b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-04-13 12:50:15:941|SyncServer|9950|0x10b216f60|Server|Info| Cancelling all sync plans.
+2016-04-13 12:50:15:987|SyncServer|9950|0x10b216f60|Server|Info| Goodnight, Gracie.
+2016-04-13 13:10:56:782|SyncServer|10064|0x10f516f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-04-13 13:10:57:404|DockSyncClient|10065|0x101e16b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-04-13 13:10:57:405|DockSyncClient|10065|0x101e16b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-04-13 13:11:32:720|DockSyncClient|10067|0x10d616b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-04-13 13:11:32:744|DockSyncClient|10067|0x10d616b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-04-13 13:13:32:800|SyncServer|10064|0x10f516f60|Server|Info| Cancelling all sync plans.
+2016-04-13 13:13:33:198|SyncServer|10064|0x10f516f60|Server|Info| Goodnight, Gracie.
+2016-04-27 08:30:21:740|SyncServer|740|0x108016f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-04-27 08:30:22:613|DockSyncClient|741|0x10f616b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-04-27 08:30:22:613|DockSyncClient|741|0x10f616b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-04-27 08:32:22:882|SyncServer|740|0x108016f60|Server|Info| Cancelling all sync plans.
+2016-04-27 08:32:23:096|SyncServer|740|0x108016f60|Server|Info| Goodnight, Gracie.
+2016-05-01 17:20:08:009|SyncServer|3906|0x101316f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-05-01 17:20:09:631|DockSyncClient|3907|0x10ca16b80|Stats|Stats| com.apple.Dashboard: slow sync com.apple.dashboard.widget
+2016-05-01 17:20:09:631|DockSyncClient|3907|0x10ca16b80|ISyncSession|Info| com.apple.Dashboard: prepare to slow sync com.apple.dashboard.widget
+2016-05-01 17:22:09:659|SyncServer|3906|0x101316f60|Server|Info| Cancelling all sync plans.
+2016-05-01 17:22:10:121|SyncServer|3906|0x101316f60|Server|Info| Goodnight, Gracie.
+2016-05-01 17:38:06:570|SyncServer|4027|0x109e16f60|Logging|Info| Logging initialized, engine version 673.6 : log level 3
+2016-05-01 17:38:07:123|DockSyncClient|4028|0x10b516b80|Stats|Stats| com.apple.Dock: slow sync com.apple.dock.item, com.apple.dock.itemlist
+2016-05-01 17:38:07:123|DockSyncClient|4028|0x10b516b80|ISyncSession|Info| com.apple.Dock: prepare to slow sync com.apple.dock.item,com.apple.dock.itemlist
+2016-05-01 17:40:07:160|SyncServer|4027|0x109e16f60|Server|Info| Cancelling all sync plans.
+2016-05-01 17:40:07:162|SyncServer|4027|0x109e16f60|Server|Info| Goodnight, Gracie.

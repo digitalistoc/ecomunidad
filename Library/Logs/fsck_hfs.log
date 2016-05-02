@@ -1,0 +1,54 @@
+
+/dev/rdisk1s2: fsck_hfs run at Tue Mar  8 13:22:29 2016
+** /dev/rdisk1s2 (NO WRITE)
+   Executing fsck_hfs (version diskdev_cmds-540.1~25).
+** Checking Journaled HFS Plus volume.
+   The volume name is Sublime Text 2
+** Checking extents overflow file.
+** Checking catalog file.
+** Checking multi-linked files.
+** Checking catalog hierarchy.
+** Checking extended attributes file.
+** Checking volume bitmap.
+** Checking volume information.
+** The volume Sublime Text 2 appears to be OK.
+
+/dev/rdisk2s2: fsck_hfs run at Mon Mar 14 12:01:26 2016
+** /dev/rdisk2s2 (NO WRITE)
+   Executing fsck_hfs (version diskdev_cmds-540.1~25).
+** Checking non-journaled HFS Plus Volume.
+   The volume name is Google Chrome
+** Checking extents overflow file.
+** Checking catalog file.
+** Checking multi-linked files.
+** Checking catalog hierarchy.
+** Checking volume bitmap.
+** Checking volume information.
+** The volume Google Chrome appears to be OK.
+
+/dev/rdisk2s2: fsck_hfs run at Tue Mar 15 10:01:59 2016
+** /dev/rdisk2s2 (NO WRITE)
+   Executing fsck_hfs (version diskdev_cmds-540.1~25).
+** Checking non-journaled HFS Plus Volume.
+   The volume name is Google Chrome
+** Checking extents overflow file.
+** Checking catalog file.
+** Checking multi-linked files.
+** Checking catalog hierarchy.
+** Checking volume bitmap.
+** Checking volume information.
+** The volume Google Chrome appears to be OK.
+
+/dev/rdisk1s1: fsck_hfs run at Thu Mar 31 16:45:42 2016
+** /dev/rdisk1s1 (NO WRITE)
+   Executing fsck_hfs (version diskdev_cmds-540.1~25).
+** Checking Journaled HFS Plus volume.
+   The volume name is Git 2.6.4 Mavericks Intel Universal
+** Checking extents overflow file.
+** Checking catalog file.
+** Checking multi-linked files.
+** Checking catalog hierarchy.
+** Checking extended attributes file.
+** Checking volume bitmap.
+** Checking volume information.
+** The volume Git 2.6.4 Mavericks Intel Universal appears to be OK.

@@ -1,0 +1,9 @@
+2016/03/16-11:55:33.604 28675 Reusing MANIFEST /Users/estudiante/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/03/16-11:55:34.965 121251 Level-0 table #5: started
+2016/03/16-11:55:34.965 28675 Current memtable full; waiting...
+2016/03/16-11:55:34.983 121251 Level-0 table #5: 615 bytes OK
+2016/03/16-11:55:34.984 121251 Delete type=0 #3
+2016/03/16-11:55:34.985 121251 Level-0 table #7: started
+2016/03/16-11:55:34.986 121251 Level-0 table #7: 0 bytes OK
+2016/03/16-11:55:34.986 121251 Delete type=0 #4
+2016/03/16-11:55:34.986 121251 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

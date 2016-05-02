@@ -1,0 +1,17 @@
+.caja
+{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+}
+.caja-inline
+{
+	display: inline-block;
+}
+.container
+{
+	margin: 8px;
+	width: 600px;
+	background-color: yellow
+	padding: 10px;
+}

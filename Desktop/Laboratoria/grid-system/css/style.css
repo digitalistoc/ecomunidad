@@ -1,0 +1,25 @@
+.container{
+	
+}
+header{
+	background: black;
+}
+.nav-header ul{
+list-style-type: none;
+display: inline;
+
+}
+.nav-header li {
+	display: inline;
+margin-top: 10px;
+}
+h2 a{
+
+font-size: 12px;
+color: #1F617F;
+
+}
+
+img{
+	max-width: 100%;
+}

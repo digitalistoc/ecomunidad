@@ -1,0 +1,22 @@
+p{
+	color: black;
+	font-family: Times New Roman;
+}
+.linea{
+	background-color: black;
+	height: 2px;
+	width: 70px;
+
+}
+.primera div{
+margin-bottom: 10px;
+margin-right: 20px;
+margin-top: 10px;
+display: inline-block;
+}
+.segunda div{
+margin-bottom: 10px;
+margin-right: 20px;
+margin-top: 10px;
+display: inline-block;
+}

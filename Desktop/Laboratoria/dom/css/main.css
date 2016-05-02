@@ -1,0 +1,21 @@
+.abuelo {
+	background-color: purple;
+	width: 1000px;
+	height: 500px;
+	padding: 100px;
+	position: static;
+
+}
+.hijo{ 
+	border:5px dashed black;
+	background-color: white;
+	position: absolute;
+	margin: 100px;
+
+}
+.padre{
+	background-color: yellow;
+	width: 100%;
+	height: 100%;
+position: relative;
+}

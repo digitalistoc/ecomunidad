@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>casa</title>
+    </head>
+    <body>
+    <div class="humo"></div>
+    <div class="triangulo">
+    <div class="humo"></div></div>
+    <div class="cuadrado"></div>
+    </body>
+    </html>

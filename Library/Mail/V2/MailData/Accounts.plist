@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AccountsVersion</key>
+	<integer>1</integer>
+	<key>MailAccounts</key>
+	<array>
+		<dict>
+			<key>AccountPath</key>
+			<string>~/Library/Mail/V2/Mailboxes</string>
+			<key>AccountType</key>
+			<string>LocalAccount</string>
+			<key>DraftsMailboxName</key>
+			<string>Drafts</string>
+			<key>IsSyncable</key>
+			<true/>
+			<key>NotesMailboxName</key>
+			<string>Notes</string>
+			<key>SentMessagesMailboxName</key>
+			<string>Sent Messages</string>
+			<key>uniqueId</key>
+			<string>57d15754-a780-4b03-a650-50f7dfb8c93c</string>
+		</dict>
+		<dict>
+			<key>AccountPath</key>
+			<string>~/Library/Mail/V2/RSS</string>
+			<key>AccountType</key>
+			<string>RSSAccount</string>
+			<key>DraftsMailboxName</key>
+			<string>Drafts</string>
+			<key>SentMessagesMailboxName</key>
+			<string>Sent Messages</string>
+			<key>uniqueId</key>
+			<string>245e321c-e8a5-4c67-aceb-321d2a8d6d81</string>
+		</dict>
+	</array>
+</dict>
+</plist>
